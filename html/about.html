@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+</head>
+<body>
+    <div id="content">
+        <div class="title-block">about page</div>
+        
+        <p>
+            This is a sample about page that demonstrates how the overlay system works with separate HTML files.
+        </p>
+        
+        <div class="title-block">sample content</div>
+        
+        <p>
+            Each overlay page is a separate HTML file that contains only the content div.
+            The main index.html page loads this content dynamically when the user clicks on a word cloud item.
+        </p>
+        
+        <p>
+            You can add as many sections as you want, with rich formatting including:
+        </p>
+        
+        <ul>
+            <li>Lists (ordered and unordered)</li>
+            <li>Headings using title-block divs</li>
+            <li>Paragraphs with proper spacing</li>
+            <li>Links to external resources</li>
+        </ul>
+        
+        <div class="title-block">how it works</div>
+        
+        <p>
+            The JavaScript fetches this HTML file, extracts the #content div, and inserts it into the overlay.
+            This approach keeps your content modular and easier to maintain than having everything in a single file.
+        </p>
+    </div>
+</body>
+</html>
