@@ -1,5 +1,9 @@
 # Resume Word Cloud
 
+<!-- BADGES:START -->
+[![content-management](https://img.shields.io/badge/-content--management-blue?style=flat-square)](https://github.com/topics/content-management) [![css](https://img.shields.io/badge/-css-1572b6?style=flat-square)](https://github.com/topics/css) [![html](https://img.shields.io/badge/-html-e34f26?style=flat-square)](https://github.com/topics/html) [![javascript](https://img.shields.io/badge/-javascript-f7df1e?style=flat-square)](https://github.com/topics/javascript) [![portfolio](https://img.shields.io/badge/-portfolio-blue?style=flat-square)](https://github.com/topics/portfolio) [![responsive-design](https://img.shields.io/badge/-responsive--design-blue?style=flat-square)](https://github.com/topics/responsive-design) [![resume](https://img.shields.io/badge/-resume-00bcd4?style=flat-square)](https://github.com/topics/resume) [![visualization](https://img.shields.io/badge/-visualization-blue?style=flat-square)](https://github.com/topics/visualization) [![word-cloud](https://img.shields.io/badge/-word--cloud-blue?style=flat-square)](https://github.com/topics/word-cloud) [![data-visualization](https://img.shields.io/badge/-data--visualization-blue?style=flat-square)](https://github.com/topics/data-visualization)
+<!-- BADGES:END -->
+
 A modern, responsive word cloud visualization that can be used for showcasing resume skills, interests, or any categorized content.
 
 ## Project Structure
